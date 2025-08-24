@@ -1,6 +1,6 @@
 # DNS-Resolver-Project
 A simple DNS Resolver and DNS Server implementation in Python to find IP Adress. This project demonstrates how DNS queries and responses work using socket programming.
-step 1: Clone the project: " "
+step 1: Clone the project: "https://github.com/yogeshh-gowdaa/DNS-Resolver-Project.git"
 
 step2: Go to the project folder:
 Open PowerShell and move into your project directory:cd"your cloned repo folder"

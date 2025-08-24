@@ -33,8 +33,8 @@ Don’t type facebook.com directly in PowerShell → it must be entered inside t
 
 
 Left terminal (server):
-(<img width="1455" height="482" alt="image" src="https://github.com/user-attachments/assets/3e0a5b97-586d-4462-a229-0a02d7dd057c" />
-)
+<img width="1455" height="482" alt="image" src="https://github.com/user-attachments/assets/3e0a5b97-586d-4462-a229-0a02d7dd057c" />
+
 
 Right terminal (client):
 <img width="1446" height="313" alt="image" src="https://github.com/user-attachments/assets/8603459e-358e-4d19-aa0a-5defcedb782b" />

@@ -31,19 +31,12 @@ you can type:facebook.com or any other
 
 Don’t type facebook.com directly in PowerShell → it must be entered inside the program prompt, not as a command.
 
-Example Workflow (Split Terminal)
 
 Left terminal (server):
-python dns_server.py
-DNS Server running at 0.0.0.0:53
+(<img width="1455" height="482" alt="image" src="https://github.com/user-attachments/assets/3e0a5b97-586d-4462-a229-0a02d7dd057c" />
+)
 
 Right terminal (client):
-python dns_resolver.py
-Enter a domain name: google.com
-IP address for google.com is 142.251.42.238
+<img width="1446" height="313" alt="image" src="https://github.com/user-attachments/assets/8603459e-358e-4d19-aa0a-5defcedb782b" />
 
-Run client again:
-python dns_resolver.py
-Enter a domain name: youtube.com
-IP address for youtube.com is 142.250.195.174
 
